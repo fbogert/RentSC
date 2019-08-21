@@ -1,0 +1,35 @@
+{
+  "name": "RentSC",
+  "version": "1.0.0",
+  "description": "Empowering Renters Rights in Santa Cruz, California",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbogert/RentSC.git"
+  },
+  "keywords": [],
+  "authors": [
+    "Ryan Smith",
+    "Alex Bogart"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbogert/RentSC/issues"
+  },
+  "homepage": "https://github.com/fbogert/RentSC#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "dotenv": "^8.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^1.19.1"
+  }
+}
