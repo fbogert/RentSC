@@ -1,2 +1,4 @@
 node_modules*
 .env
+RentSC_fire_keys.json
+.eslintrc.json
