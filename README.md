@@ -8,12 +8,12 @@ RentSC is a rental service for santcruz county CA. The service is targeted towar
 for getting started as user you can head right over to (insert Url here) and register for the app!
 
 ## Goals and Visions
-[] Be able to upload documents related to lease 
-[] Monitor the lease and get updates on you lease i.e resign/ lease termination 
-[] file repairs with landlord and monitor completion status
-[] pay rent online (feelessly????)
-[] communicate anonymously or openly with other tennents in the area
-More to come(alex here's where you get some time to flex that creativity)
+[] Be able to upload documents related to lease  
+[] Monitor the lease and get updates on you lease i.e resign/ lease termination  
+[] file repairs with landlord and monitor completion status  
+[] pay rent online (feelessly????)  
+[] communicate anonymously or openly with other tennents in the area  
+[] More to come(alex here's where you get some time to flex that creativity)
 
 ## Notable Features
 * Firebase backend
